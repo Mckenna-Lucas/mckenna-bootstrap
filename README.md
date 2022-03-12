@@ -1,4 +1,11 @@
+# Mckenna's Bootstrap Project 
+
+It's a class project
+
 # ICJ Bootstrap Template
+
+
+
 
 This template goes along with the [Bootstrap lessons](https://github.com/utdata/icj-class#bootstrap) for Intro to Coding for Journalists.
 
